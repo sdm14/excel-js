@@ -1,1 +1,3 @@
-console.log('Hell0')
+import './scss/styles.scss'
+
+console.log('Hell4')
