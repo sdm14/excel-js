@@ -18,12 +18,6 @@
       {
         "allow": ["_id"]
       }
-    ],
-    "react/jsx-filename-extension": [
-      1,
-      {
-        "extensions": [".js", ".jsx"]
-      }
     ]
   },
   "settings": {
